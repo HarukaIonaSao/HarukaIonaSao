@@ -2,8 +2,6 @@
 
 
 
-
-
 - 👋 Olá,eu sou @HarukaIonaSao
 - 👀 Estou interessada em jogos html e páginas web 
 - 🌱 Estou estudando Java SE,Java Script
