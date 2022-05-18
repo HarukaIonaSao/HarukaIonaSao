@@ -21,13 +21,20 @@
       <img align="center" alt="Roberta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Roberta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Roberta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      
+     </p>
 
 
 
 <div align="left">
   <a href="https://github.com/HarukaIonaSao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=tokionight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="right" alt="Pokemon-gif" height="150" style="border-radius:60px;" src="https://i.gifer.com/1ImB.gif">
+</div>
+
+     
+
+
+
   
 </div>
 
@@ -36,7 +43,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao)](https://github.com/HarukaIonaSao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=radical)](https://github.com/HarukaIonaSao/github-readme-stats)
 
 
 
