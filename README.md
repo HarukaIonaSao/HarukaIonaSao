@@ -13,7 +13,7 @@
 <p align="center">
  
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ 
 </p>
 
   <p align="center">
