@@ -25,20 +25,15 @@
 
 
 
-
-
-![HarukaIonaSao GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&hide=contribs,issues)
-
-
-
-![HarukaIonaSao GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&hide=issues&show_icons=true)
-
-
-![HarukaIonaSao GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&border_color=blue)
+<div align="left">
+  <a href="https://github.com/HarukaIonaSao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
 
 
 
-![HarukaIonaSao GitHub stats](https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&include_all_commits=true)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao)](https://github.com/HarukaIonaSao/github-readme-stats)
