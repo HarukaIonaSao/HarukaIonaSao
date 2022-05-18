@@ -28,23 +28,12 @@
 <div align="left">
   <a href="https://github.com/HarukaIonaSao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img align="right" alt="Pokemon-gif" height="150" style="border-radius:60px;" src="https://i.gifer.com/1ImB.gif">
+
 </div>
-
-     
-
-
-
   
-</div>
-
-
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=radical)](https://github.com/HarukaIonaSao/github-readme-stats)
-
 
 
 <div>
@@ -53,7 +42,9 @@
       
       
 ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)
-      </div>
+ 
+ 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95101635/169095658-dc690fb0-9491-4f5c-b2b9-393c74d7f6eb.gif)
 
 
 
