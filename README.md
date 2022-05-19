@@ -4,9 +4,10 @@
 
 - 👋 Olá,eu sou @HarukaIonaSao
 - 👀 Estou interessada em jogos html e páginas web 
-- 🌱 Estou estudando Java SE,Java Script
+- 🌱 Estou estudando Java SE,Java Script e html
 - 💞️ Desejo colaborar com jogos html 
-- :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo
+- :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. Sempre deixo uma lista de emoticons e links de gifs
+- Dicas de como personalizar seu perfil no Github
 - 📫 Entre em contato comigo em robertaribeiro004@gmail.com
 
 
@@ -39,7 +40,7 @@
 
 
 <div>
-<a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+<a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=lime" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
       
       
