@@ -52,8 +52,7 @@
       
 ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)
  
- 
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95101635/169095658-dc690fb0-9491-4f5c-b2b9-393c74d7f6eb.gif)
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95101635/169656326-3cf8978f-6bf5-45dd-bdf7-7fdd7787ad7b.gif)
 
 
 
