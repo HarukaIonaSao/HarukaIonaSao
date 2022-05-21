@@ -1,14 +1,18 @@
 ### Olá! Eu sou a HarukaIonaSao :wave: 
 
 
-
-- 👋 Olá,eu sou @HarukaIonaSao
-- 👀 Estou interessada em jogos html e páginas web 
-- 🌱 Estou estudando Java SE,Java Script e html
-- 💞️ Desejo colaborar com jogos html 
-- :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. Sempre deixo uma lista de emoticons e links de gifs
-- Dicas de como personalizar seu perfil no Github
-- 📫 Entre em contato comigo em robertaribeiro004@gmail.com
+👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites 
+ 🌱 Estou estudando :Java SE
+ Java Script 
+ Html
+ 
+ Em breve começarei um bootcamp FullStack Na Dio
+ 
+ 💞️ Desejo colaborar com jogos html 
+ :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. 
+ Sempre deixo uma lista de emoticons e links de gifs
+ Dicas de como personalizar seu perfil no Github
+ 📫 Entre em contato comigo em robertaribeiro004@gmail.com
 
 
 <p align="center">
