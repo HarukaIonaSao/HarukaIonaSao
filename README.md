@@ -1,8 +1,10 @@
 ### Olá! Eu sou a HarukaIonaSao :wave: 
 
 
-👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites 
- 🌱 Estou estudando :
+👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
+
+
+ -🌱 Estou estudando :
  
  ##-Java SE
  ##-Java Script 
