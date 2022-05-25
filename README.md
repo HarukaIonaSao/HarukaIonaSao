@@ -1,14 +1,11 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-
-
-<h1 align="center">### Olá! Eu sou a HarukaIonaSao  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Olá, sou a Roberta (@HarukaIonaSao)</h1>
 
 
 
 
-
-👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
+-👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
 
 
  -🌱 Estou estudando :
