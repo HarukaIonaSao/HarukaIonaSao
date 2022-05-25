@@ -1,4 +1,11 @@
-### Olá! Eu sou a HarukaIonaSao :wave: 
+
+
+
+<h1 align="center">### Olá! Eu sou a HarukaIonaSao  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+
+
 
 
 👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
