@@ -40,12 +40,8 @@
   <img align="center" alt="Roberta-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      <img align="center" alt="Roberta-Git" height="30" width="40"src="https://img.icons8.com/color/48/000000/git.png"/>
 
-     <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-     </p>
-
-
-
-<div align="left">
+     
+ <div align="left">
   <a href="https://github.com/HarukaIonaSao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
