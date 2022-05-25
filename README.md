@@ -50,12 +50,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>
-  
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=radical)](https://github.com/HarukaIonaSao/github-readme-stats)
 
+ <a href="https://github.com/HarukaIonaSao/github-readme-activity-graph"><img alt="HarukaIonaSao Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HarukaIonaSao&bg_color=0d214f&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+  
 
 <div>
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=lime" target="_blank"></a>
@@ -63,6 +62,7 @@
       
       
 ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)
+ 
  
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95101635/169656326-3cf8978f-6bf5-45dd-bdf7-7fdd7787ad7b.gif) 
 
