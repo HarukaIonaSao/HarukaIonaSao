@@ -11,13 +11,15 @@
 
  -🌱 Estou estudando :
  
- ##-Java SE
- ##-Java Script 
+ ##- Lógica de Programação e Pensamento Computacional 
+ ##- Java SE
+ ##- Javascript 
  ##- Html
- 
+ ##- SQL
+ ##-Markdown
  Em breve começarei um bootcamp FullStack Na Dio
  
- - 💞️ Desejo colaborar com jogos html 
+ - 💞️ Desejo colaborar com jogos html, criação de sites e landing pages 
  - :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. 
  - Sempre deixo uma lista de emoticons e links de gifs
  - Dicas de como personalizar seu perfil no Github
@@ -38,8 +40,10 @@
    <img align="center" alt="Roberta-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Roberta-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Roberta-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-     <img align="center" alt="Roberta-Git" height="30" width="40"src="https://img.icons8.com/color/48/000000/git.png"/>
-
+     <img align="center" alt="Roberta-Git" height="30" width="40"src="https://img.icons8.com/color/48/000000/git.png" />
+  <img align="center" alt="Roberta-mardown" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />          
+     
+     
      
  <div align="left">
   <a href="https://github.com/HarukaIonaSao">
