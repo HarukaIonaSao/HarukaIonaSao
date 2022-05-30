@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Olá, sou a Roberta (@HarukaIonaSao)</h1>
 
-
+[![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
 
 -👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
