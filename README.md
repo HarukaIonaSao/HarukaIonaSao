@@ -66,7 +66,12 @@
  
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95101635/169656326-3cf8978f-6bf5-45dd-bdf7-7fdd7787ad7b.gif) 
 
-
+<!-- GitHub Profile Trophies https://github.com/HarukaIonaSao/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/HarukaIonaSao/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarukaIonaSao&theme=onestar&no-frame=true" alt="HarukaIonaSao Profile Trophies" />
+  </a>
+</div>
 
 
 
