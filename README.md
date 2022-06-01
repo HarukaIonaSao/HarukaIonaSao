@@ -17,7 +17,8 @@
 - Html5
 - Css3
 - SQL
--Markdown
+- Markdown
+
  Em breve começarei um bootcamp FullStack Na Dio
  
  - 💞️ Desejo colaborar com jogos html, criação de sites e landing pages 
