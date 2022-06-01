@@ -1,7 +1,7 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95101635/170268817-b8816797-3c2b-42e4-a76e-42559335b10c.gif)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Olá, sou a Roberta (@HarukaIonaSao)</h1>
+<h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
 
 [![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
