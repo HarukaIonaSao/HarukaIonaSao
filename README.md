@@ -6,17 +6,18 @@
 [![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
 
--👀 Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
+- Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
 
 
- -🌱 Estou estudando :
+ - 🌱 Estou estudando :
  
- ##- Lógica de Programação e Pensamento Computacional 
- ##- Java SE
- ##- Javascript 
- ##- Html
- ##- SQL
- ##-Markdown
+- Lógica de Programação e Pensamento Computacional 
+- Java SE
+- Javascript 
+- Html5
+- Css3
+- SQL
+-Markdown
  Em breve começarei um bootcamp FullStack Na Dio
  
  - 💞️ Desejo colaborar com jogos html, criação de sites e landing pages 
