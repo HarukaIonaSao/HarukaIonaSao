@@ -26,7 +26,7 @@
  - Sempre deixo uma lista de emoticons e links de gifs
  - Dicas de como personalizar seu perfil no Github
  - 📫 Entre em contato comigo em robertaribeiro004@gmail.com
-
+ - Artigo no Kopy: https://ko-fi.com/post/EnPT-BRCustomize-profile-on-GitHub-and-add-snak-M4M6D2MGC 
 
 <p align="center">
  
@@ -43,7 +43,8 @@
   <img align="center" alt="Roberta-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Roberta-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      <img align="center" alt="Roberta-Git" height="30" width="40"src="https://img.icons8.com/color/48/000000/git.png" />
-  <img align="center" alt="Roberta-mardown" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />          
+  <img align="center" alt="Roberta-mardown" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />       
+    
      
      
      
@@ -61,6 +62,11 @@
 <div>
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=lime" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
+  <a href="https://stackoverflow.com/users/user:19267277" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19267277" height="30" width="40" /></a>
+ <h3 align="center">Support:</h3>
+<a href="https://ko-fi.com/harukaionasao"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harukaionasao" /></a><br><br>
+
+
       
       
 ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)
