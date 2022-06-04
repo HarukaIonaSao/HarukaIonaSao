@@ -64,7 +64,8 @@
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/edit/19267277" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19267277" height="30" width="40" /></a>
  <h3 align="left">Support:</h3>
-<a href="https://ko-fi.com/harukaionasao"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harukaionasao" /></a><br><br>
+
+<p><a href="https://www.buymeacoffee.com/robertaribC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robertaribC" /></a><a href="https://ko-fi.com/harukaionasao"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harukaionasao" /></a></p><br><br>
 
 
       
