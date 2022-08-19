@@ -6,25 +6,20 @@
 [![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
 
-- Estou interessada em jogos html e páginas web, formulários e desenvolvimento de sites.
+- Estou interessada em jogos html ,desenvolvimento de sites e acessibilidade.
 
 
- - 🌱 Estou estudando :
+ - 🌱 Estou estudando na Generation Brasil: Fullstack Java Jr.
+
+
+ - 💞️ Desejo colaborar com jogos html, criação de sites e acesibilidade na web
  
-- Lógica de Programação e Pensamento Computacional 
-- Java SE
-- Javascript 
-- Html5
-- Css3
-- SQL
-- Markdown
-
- Em breve começarei um bootcamp FullStack Na Dio
- 
- - 💞️ Desejo colaborar com jogos html, criação de sites e landing pages 
  - :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. 
+ 
  - Sempre deixo uma lista de emoticons e links de gifs
+ 
  - Dicas de como personalizar seu perfil no Github
+ 
  - 📫 Entre em contato comigo em robertaribeiro004@gmail.com
  - Artigo no Kopy: https://ko-fi.com/post/EnPT-BRCustomize-profile-on-GitHub-and-add-snak-M4M6D2MGC 
 
