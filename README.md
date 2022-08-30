@@ -6,13 +6,13 @@
 [![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
 
-- Estou interessada em jogos html ,desenvolvimento de sites e acessibilidade.
+ - Estou interessada em jogos html ,desenvolvimento de sites e acessibilidade
 
 
- - 🌱 Estou estudando na Generation Brasil: Fullstack Java Jr.
+ - Estudando na Generation Brasil: Fullstack Java Jr
 
 
- - 💞️ Desejo colaborar com jogos html, criação de sites e acesibilidade na web
+ - Desejo colaborar com jogos html, criação de sites e projetos de acesibilidade na web
  
  - :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. 
  
@@ -24,10 +24,11 @@
  - Artigo no Kopy: https://ko-fi.com/post/EnPT-BRCustomize-profile-on-GitHub-and-add-snak-M4M6D2MGC 
 
 <p align="center">
- 
+<hr> 
  <h2 align="center">GitHub Readme Stats</h2>
  
 </p>
+
 
   <p align="center">
     <a href="https://github.com/HarukaIonaSao/github-readme-stats/actions">
@@ -45,8 +46,7 @@
      
  <div align="left">
   <a href="https://github.com/HarukaIonaSao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=radical)](https://github.com/HarukaIonaSao/github-readme-stats)
@@ -58,12 +58,8 @@
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=lime" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/edit/19267277" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19267277" height="30" width="40" /></a>
- <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/robertaribC"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robertaribC" /></a><a href="https://ko-fi.com/harukaionasao"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="harukaionasao" /></a></p><br><br>
-
-
-      
+     
       
 ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)
  
