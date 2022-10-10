@@ -41,7 +41,7 @@
      
  <div align="left">
   <a href="https://github.com/HarukaIonaSao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=blue-green&layout=compact)](https://github.com/HarukaIonaSao/github-readme-stats)
