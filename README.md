@@ -1,22 +1,26 @@
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95101635/194788988-ee421d15-621a-407a-bb6e-a78cfafea135.gif)
 
-
+ 
 <h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
+
+<div align="center">
+<br><p align="center"><b>Você é @ visitante número:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HarukaIonaSao}/count.svg" /></p> 
+<br></div>
 
 [![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
 
 
- - Estudando na Generation Brasil: Fullstack Java Jr
+ - Dev Fullstack Java Jr
  
  - Desejo colaborar com jogos html, criação de sites e projetos de acesibilidade na web
  
  - :smile: Faço passo a passo das minhas aulas para ajudar quem também está aprendendo :thumbsup:. 
  
- - Sempre deixo uma lista de emoticons e links de gifs
+ - Sempre deixo uma lista de emoticons e links de gifs 
  
- - Dicas de como personalizar seu perfil no Github
+
  
- - 📫 Entre em contato comigo em robertaribeiro004@gmail.com
 
 <p align="center">
 <hr> 
