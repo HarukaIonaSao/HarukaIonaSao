@@ -9,7 +9,7 @@
  - Dev Fullstack Java Jr
  
  - Desejo colaborar com jogos html, criação de sites e projetos de acesibilidade web
- 
+  
 
 <p align="center">
 <hr> 
