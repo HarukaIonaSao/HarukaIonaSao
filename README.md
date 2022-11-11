@@ -3,13 +3,10 @@
 
 <h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
 
-[![Generate Datas](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml/badge.svg)](https://github.com/HarukaIonaSao/HarukaIonaSao/actions/workflows/main.yml)
-
 
  - Dev Fullstack Java Jr
  
- - Desejo colaborar com jogos html, criação de sites e projetos de acesibilidade web
- </div>
+ - Desejo colaborar com projetos de acesibilidade web
 
 
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=lime" target="_blank"></a>
@@ -32,12 +29,12 @@
 
   <p align="center">
 <hr> 
- <h2 align="center">GitHub Readme Stats</h2> 
+ <h2 align="center">GitHub Stats</h2> 
 </p>    
  <div align="left">
   <a href="https://github.com/HarukaIonaSao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
- 
+ </div>
   
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&theme=blue-green&layout=compact)](https://github.com/HarukaIonaSao/github-readme-stats)       
