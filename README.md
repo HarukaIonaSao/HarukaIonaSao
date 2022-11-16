@@ -8,10 +8,7 @@
  
  - Desejo colaborar com projetos de acesibilidade web
  
- 
- <div align="right">
-<img src="https://i.imgur.com/67OHHMU.gif" width="100px" >
- </div>
+
 
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=cornflowerblue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
@@ -27,7 +24,8 @@
   <img align="center" alt="Roberta-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Roberta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Roberta-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Roberta-Git" height="30" width="40"src="https://img.icons8.com/color/48/000000/git.png" />    
+  <img align="center" alt="Roberta-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
        
    
  <div align="center">
