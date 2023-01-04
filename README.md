@@ -1,8 +1,8 @@
-
-<img align="center" src="https://user-images.githubusercontent.com/95101635/198846565-8043eeb5-8c01-4272-bd30-d48999c25278.gif">
+<div align="center">
+<img  src="https://user-images.githubusercontent.com/95101635/198846565-8043eeb5-8c01-4272-bd30-d48999c25278.gif">
 <!-- ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/95101635/198846565-8043eeb5-8c01-4272-bd30-d48999c25278.gif)
  -->
-
+</div>
 <h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
 
 <img align="right" src="https://i.imgur.com/Qe5XrJM.gif](https://imgur.com/DirCrSz)" >
@@ -11,11 +11,11 @@
  - Acessibilidade 🤟🏿 e Scrum
  - Tenho resumos de aulas de Java, Html e Css. Fique à vontade, e divirta-se
  
-
+<div align="center">
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=cornflowerblue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/edit/19267277" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19267277" height="30" width="40" /></a>  
-  
+  </div>
 
 <h2 align="center" color="aqua"> Stacks </h2><br>
 
@@ -27,8 +27,7 @@
   <img align="center" alt="Roberta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Roberta-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Roberta-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="Roberta-Acessibilidade" height="30" width="30" src="https://i.imgur.com/77v4m9F.png"  />
-
+ <img align="center" alt="Roberta-Acessibilidade" height="30" width="30" src="https://i.imgur.com/77v4m9F.png"  />    
 <br>       
      
   
