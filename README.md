@@ -31,14 +31,14 @@
  <img align="center" alt="Roberta-Acessibilidade" height="50" width="50" src="https://i.imgur.com/77v4m9F.png"  />    
 <br>       
      
-<!--   
+  
  <div align="center">
  <a href="https://github.com/HarukaIonaSao">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&layout=compact&langs_count=7&theme=algolia)](https://github.com/HarukaIonaSao/github-readme-stats)      
  
- </div> -->
+ </div>
   
 
  ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)  
