@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://user-images.githubusercontent.com/95101635/198846565-8043eeb5-8c01-4272-bd30-d48999c25278.gif">
+<img height="230em" src="https://user-images.githubusercontent.com/95101635/198846565-8043eeb5-8c01-4272-bd30-d48999c25278.gif">
 </div>
 
 <h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
