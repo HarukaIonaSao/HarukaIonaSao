@@ -13,10 +13,9 @@
 <div align="center">
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=cornflowerblue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/edit/19267277" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19267277" height="30" width="40" /></a>  
   </div>
 
- <h2 align="center" color="aqua"> Stacks </h2><br>
+ <h2 align="center" color="navy"> Stacks </h2><br>
 
   <p align="center">
    <a href="https://github.com/HarukaIonaSao/github-readme-stats/actions">
