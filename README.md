@@ -6,8 +6,9 @@
 
 <img align="right" src="https://i.imgur.com/Qe5XrJM.gif](https://imgur.com/DirCrSz)" >
 
- - Dev Fullstack Java  
+ - Dev Fullstack Java ♨ 
  - Acessibilidade 🤟🏿 
+ - Gosto de animes🎎, jogos 8bits🕹 e doces 🍰
  - Resumos de aulas de Java, Html,Css,Js,React e Python. Fique à vontade, e divirta-se
  
 <div align="center">
