@@ -15,9 +15,8 @@
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=cornflowerblue" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
   </div>
-
- <h2 align="center" color="navy"> Stacks </h2><br>
-
+  
+<hr>
   <p align="center">
    <a href="https://github.com/HarukaIonaSao/github-readme-stats/actions">
   <img align="center" alt="Roberta-Sass" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
