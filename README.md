@@ -6,7 +6,7 @@
 
 <img align="right" src="https://i.imgur.com/Qe5XrJM.gif](https://imgur.com/DirCrSz)">
 
- - Dev Fullstack Java e React
+ - Dev Fullstack 
  - Acessibilidade 🤟🏿 
  - Gosto de animes🎎, jogos 8bits🕹 e doces 🍰
  - Resumos de aulas de Java, Html,Css,Js,React e Python. Fique à vontade, e divirta-se
@@ -16,28 +16,29 @@
   <a href="https://www.linkedin.com/in/roberta-ribeiro-b5521a4b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=navyblue" target="_blank"></a> 
   </div>
   
+<hr>    
+ <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sass,figma,react,selenium,materialui,ts,nodejs,vue,mysql,java,maven,spring," />
+  </a>
+</div>
 <hr>
-  <p align="center">
-   <a href="https://github.com/HarukaIonaSao/github-readme-stats/actions">
-  <img align="center" alt="Roberta-Sass" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-  <img align="center" alt="Roberta-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Roberta-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Roberta-Typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" > 
-  <img align="center" alt="Roberta-Spring" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Roberta-Java" height="50" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Roberta-Mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center" alt="Roberta-Acessibilidade" height="50" width="50" src="https://i.imgur.com/77v4m9F.png"  />    
-<br> <hr>     
-     
+
  <div>
- <a href="https://github.com/HarukaIonaSao">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaIonaSao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues&show_icons=true&show_owner=true">
+ <a href="https://github.com/HarukaIonaSao"> 
+
+ <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HarukaIona\Sao&theme=sunset-gradient&border=fff&dates=FFF" alt="Haruka github contribuitions" />
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaIonaSao&layout=compact&langs_count=7&theme=algolia)](https://github.com/HarukaIonaSao/github-readme-stats)      
  
  </div>
+
+
+
+
+
  
- ![Snake animation](https://github.com/HarukaIonaSao/HarukaIonaSao/blob/output/github-contribution-grid-snake.svg)  
 
 
 
