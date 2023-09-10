@@ -10,6 +10,7 @@
  - Acessibilidade 🤟🏿 
  - Gosto de animes🎎, jogos 8bits🕹 e doces 🍰
  - Resumos de aulas de Java, Html,Css,Js,React e Python. Fique à vontade, e divirta-se
+ - Portifólio: harukaionasao.github.io/Portifolio/
  
 <div align="center">
 <a href = "mailto:robertaribeiro004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=cornflowerblue" target="_blank"></a>
@@ -29,8 +30,6 @@
 
  <div align="center">
   <img src="https://streak-stats.demolab.com/?user=HarukaIona\Sao&theme=sunset-gradient&border=fff&dates=FFF" alt="Haruka github contribuitions" />
-
-  
  
  </div>
 
