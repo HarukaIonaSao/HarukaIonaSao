@@ -20,7 +20,7 @@
 <hr>    
  <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,figma,react,selenium,materialui,ts,nodejs,vue,mysql,java,maven,spring," />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,vue,selenium,aws,mongodb,nodejs,mysql,java,maven" />
   </a>
 </div>
 <hr>
