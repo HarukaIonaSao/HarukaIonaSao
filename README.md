@@ -2,7 +2,7 @@
 <img height="300em"  src="https://i.imgur.com/nQeDtvl.png" >
 </div>
 
-<h1 align="center"> Olá, sou a Roberta Ribeiro (@HarukaIonaSao)</h1>
+<h1 align="center">  Roberta Ribeiro (@HarukaIonaSao)</h1>
 
 <img align="right" src="https://i.imgur.com/Qe5XrJM.gif](https://imgur.com/DirCrSz)">
 
