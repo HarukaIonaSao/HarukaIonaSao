@@ -6,6 +6,7 @@
 
 <img align="right" src="https://i.imgur.com/Qe5XrJM.gif](https://imgur.com/DirCrSz)">
 
+ - Análise e desenvolvimeento de sistemas
  - Dev Fullstack 
  - Acessibilidade 🤟🏿 
  - Gosto de animes🎎, jogos 8bits🕹 e doces 🍰
