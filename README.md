@@ -9,7 +9,7 @@
  - Dev Fullstack 
  - Acessibilidade 🤟🏿 
  - Gosto de animes🎎, jogos 8bits🕹 e doces 🍰
- - Resumos de aulas de Java, Html,Css,Js,React e Python. Fique à vontade, e divirta-se
+ - Resumos de aulas de Java, React e Python. Fique à vontade, e divirta-se
  - Portifólio: https://robertaribeiroportifolio.netlify.app/
  
 <div align="center">
