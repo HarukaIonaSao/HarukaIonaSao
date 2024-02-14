@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300em"  src="https://i.imgur.com/nQeDtvl.png" >
+<img height="200em"  src="https://i.imgur.com/nQeDtvl.png" >
 </div>
 
 <h1 align="center">  Roberta Ribeiro (@HarukaIonaSao)</h1>
