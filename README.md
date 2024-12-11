@@ -28,8 +28,6 @@
  <div>
  <a href="https://github.com/HarukaIonaSao"> 
 
- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HarukaIona\Sao&theme=sunset-gradient&border=fff&dates=FFF" alt="Haruka github contribuitions" />
  
  </div>
 
